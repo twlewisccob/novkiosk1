@@ -3,7 +3,7 @@
    Keys must match the data-key attributes in kiosk.html
    ========================================================= */
 const LINKS = {
-  faculty:      "https://cheryljoehub.github.io/fac_2/",
+  faculty:      "https://twlewisccob.github.io/novkioskfac/",
   careerFinder: "career.html",       // the career finder quiz page
   jobs:         "https://twlewisccob.github.io/novkioskjob/",
   wouldYouRather: "wyr.html",
