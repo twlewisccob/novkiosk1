@@ -5,7 +5,7 @@
 const LINKS = {
   faculty:      "https://cheryljoehub.github.io/fac_2/",
   careerFinder: "career.html",       // the career finder quiz page
-  jobs:         "https://cheryljoehub.github.io/job_2/",
+  jobs:         "https://twlewisccob.github.io/novkioskjob/",
   wouldYouRather: "wyr.html",
   programs:     "degree.html"
 };
